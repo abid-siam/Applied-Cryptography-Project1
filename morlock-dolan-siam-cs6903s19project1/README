@@ -1,0 +1,16 @@
+Frederick Morlock fm1391
+Ricky Dolan rcd342
+Abid Siam as10476
+
+File Tree (after compilation):
+├── Makefile
+├── README
+├── morlock-dolan-siam-decrypt
+├── morlock-dolan-siam-report.pdf
+└── morlock-dolan-siam-source.c
+
+Makefile Available Commands:
+all: Runs the build command
+build: Compiles morlock-dolan-siam-decrypt
+
+Build Instructions: Run `make` from a Terminal in the root of the directory.
