@@ -1,6 +1,6 @@
 # CS-UY 4783 Project 1
 Cryptanalysis of L-Symbol Challenge for CS-UY 4783
-
+### Note: To view full report, navigate to /morlock-dolan-siam-cs6903s19project1
 ## Assignment
 
 **Grading and Submission Policies**: Project 1 will contribute to the class grade as specified in the syllabus. All students must submit for Project 1 using the appropriate link in the Tests & Quizzes content area, and using the submission naming convention specified below. If you want just one group member to submit your long submission, the other team members have to submit some text or file with a pointer to the submitting student in their team.
